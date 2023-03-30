@@ -1,3 +1,8 @@
+# Seja bem-vindo(a)
+
+Projeto desenvolvido para fins didáticos, realização de testes, etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
