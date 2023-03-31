@@ -7,10 +7,11 @@ interface Props {
 
 const ArraysComponent: FC<Props> = ({ title, arrayName}) => {
   return (
-    <div className="array-align">
+    <div className="array-align">        
       <h2>{title+" ----"}</h2>
       <div className="array-name">{arrayName}</div>
     </div> 
+   
   );
 };
 
