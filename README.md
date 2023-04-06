@@ -2,6 +2,9 @@
 
 Projeto desenvolvido para fins didáticos, realização de testes, etc.
 
+O intuito deste projeto é compartilhar conhecimento ao mesmo tempo que pratico,
+para que, ao mesmo tempo que aprendo, possa ajudar quem queira. 
+
 
 # Getting Started with Create React App
 
